@@ -1,5 +1,7 @@
 = jenkins.io
 
+image:https://badges.greenkeeper.io/devcode1981/jenkins.io.svg[link="https://greenkeeper.io/"]
+
 This repository is what powers the link:https://jenkins.io/[Jenkins
 website]. This uses link:http://awestruct.org[awestruct]
 with link:http://asciidoctor.org[Asciidoctor] under the hood to provide a very
